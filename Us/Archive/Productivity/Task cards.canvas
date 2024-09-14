@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"7e6649d381c39546","type":"text","text":"# Vault forge\n- [/] wiki-ify the vault ala [[Review of the first two Logfiles#^7i1fek]]\n- [ ] Look into getting web links on the graph\n","x":-280,"y":70,"width":400,"height":180},
+		{"id":"cb4caef2a0557583","type":"text","text":"# System management\n- [ ] fix gnome intercepting keybinds such as ctrl+alt+arrow\n- [ ] make the obsidian desktop file use a nix-shell which gets the appimage runner so that i can uninstall it\n- [ ] disable touchscreen\n","x":160,"y":70,"width":440,"height":240}
+	],
+	"edges":[]
+}

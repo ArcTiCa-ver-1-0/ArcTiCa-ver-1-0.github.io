@@ -1,0 +1,53 @@
+---
+previous: "[[Wednesday, June 12th, 2024 - Logfile]]"
+next: "[[Friday, June 14th, 2024 - Logfile]]"
+---
+- good afternoon, shell city
+- i'm really dreading working on the coding test today, so i ought to get on it right away
+	- first up, we need to connect to the wifi .>>
+		- god fuck this stupid fucking bullshit. im just using a fucking hotspot .<<
+	- [[Coding Test Hub]]
+	- ...hell yeah, good session! got a lot done. chatgpt hella carries.
+		- i _really_ wanna actually learn this stuff in my freetime now.
+			- [[project ideas]]
+		- i definitely stopped working because i ran out of free gtp4o time btw lol
+- ...so! what else do we gotta do today?
+	- gotta go grocery shopping
+	- gotta work on the coding test some more
+	- wanna work on adjusting my sleep schedule
+	- wanna finish up [[Some sort of review]]
+	- if we got time, i wanna improve [[Spaceship You]]
+- ...clearly a full schedule today! it's 5pm right now, so this is probably the least ideal moment for grocery shopping.
+	- i am a bit hungry, though. maybe i treat myself to some take-out or something.
+		- mexican sounds really good.
+		- in the meantime, drink me some water :3
+- ...obviously not gonna work on the coding test anymore for now.
+- ...sleep schedule?
+	- so, this place opens at 9. i think waking up at 7 is reasonable, so i wanna aim for a 10pm bedtime.
+	- what tools are at my disposal?
+		- alarms
+		- sunset lamp
+		- zyrtec
+		- audio cues
+	- ...given this, what actions should i take?
+		- [x] well, my current wake time is between 2 and 3 pm, so i wanna start sliding that back. i'll start by making absolutely sure i am awake at 2 with a series of alarms.
+		- [x] i'm also gonna set a reminder for myself to use the sunset lamp tonight. 2pm-9hours is 5 am. hopefully im in bed before then, but if im not, i'll set the reminder for 4am.
+			- [x] oh! i can also set it to wake me up, too. i'll remind myself to do that.
+		- [x] i'm already taking my zyrtec, but i can adjust my medication timings to be more suited for my current schedule. 2pm, 7pm, and 4am works fine.
+		- audio cues i'll have to think about.
+			- #review 
+- oh, i wanna review how yesterday went!
+	- i took a walk in the park in the late evening again. it was nice. i like letting the psychosis flow and enjoying being there in the now.
+		- i listened to music this time, whereas the time before i did not. it was a different experience to be sure. there are goods in both ^~^
+	- it's really easy to get distracted at my current home office.
+		- maybe i should sign out of discord in the browser.
+			- i can definitely feel my brain reaching out for any sort of alternative activity available, so constraining those is the goal, i think.
+	- it's really easy to fall into watching youtube, like, all the free time i can.
+		- for now it's fine, but i want one of my [[goals]] to be minimizing this.
+	- i'm glad luna and i are talking again :)
+		- our relationship is different now, definitely in part due to how i'm internally framing it.
+			- in general, i feel like i have to pass through an initial period of obsession before getting into a "normal" relationship with someone.
+				- #review 
+- now to work on [[Some sort of review]] for a bit .>>
+	- it was a short bit, but i did .<<
+	- ...i've come to the conclusion that i really ought to focus on the time-sensitive short term [[goals]] for now, so i'm gonna get some food and head home

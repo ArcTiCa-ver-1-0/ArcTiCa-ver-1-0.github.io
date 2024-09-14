@@ -1,0 +1,42 @@
+---
+previous: "[[Friday, June 7th, 2024 - Logfile]]"
+next: "[[Monday, June 10th, 2024 - Logfile]]"
+---
+- its saturday.
+- i wish i werent alive
+- review day
+	- this week kind of sucked
+		- i feel really alone
+		- im more scared about finding work and a place to live than i was last week
+			- i have the mcdonalds thing, but if i stay with novie i obviously cant work there
+		- i still feel depressed. probably because im not taking care of myself. probably because im depressed. probably because im not taking care of myself. probably because
+	- im coming up on the end of the line ^xr9m75
+		- novie is looking into the psych wards for me. because im broken and 
+			- so once they decide on which one is better ill probably go there
+	- i feel useless and pathetic
+	- i miss dawn
+	- i guess i should actually like look at my notes
+		- [x] [[Sunday, June 2nd, 2024 - Logfile]]
+		- [ ] [[Monday, June 3rd, 2024 - Logfile]]
+			- i didnt sleep, which is obviously bad
+				- my sleep schedule has been fucked ever since
+					- it was honestly fucked before, but you know
+				- i dont know what to do about this
+	- i feel like giving up, honestly.
+		- why do i feel like me getting long overdue treatment is giving up
+			- because of my parents
+				- fuck your parents. theyre a bunch of fucking idiots. you have been manipulated and abused for two decades and you need medical treatment. your inability to work and your awful mental state are because of your lack of treatment. get treatment and they will improve.
+- why am i here
+	- at the library?
+		- yes and
+			- well, because its what the us we want to be would do
+				- but obviously, we cant take advantage of it because of our condition
+					- so what ought we do given our condition?
+						- be here, i suppose. better than sitting at home. the walk is good, and a change of scenery is appreciated
+- what are we waiting on?
+	- novie's advice
+		- reasonable. she said she would be doing it over the weekend. thats a fine time to wait
+	- what should we do in the meantime?
+		- try to take care of ourself
+			- what do we need with regards to that?
+				- a shower

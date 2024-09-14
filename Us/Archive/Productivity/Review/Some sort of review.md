@@ -1,0 +1,108 @@
+- ![[Thursday, May 30th, 2024 - Logfile#^r9fh76]]
+	- Is this true?
+		- I think yes, despite what her name originally meant.
+	- Is this significant?
+		- That is up to you, I guess. Do you put significance on the concept of alters?
+			- I don't know. Right now I'm in the kick of considering the two halves of my brain as separate entities.
+				- There was some real meaning to that back when I was a stoner, but now it has faded into the background.
+			- I think regardless, there is something to the fact that they fight loneliness. I'm not sure that's what I need right now, though.
+	- I think that perhaps I could consider being just me for now. Clara. Just Clara.
+		- It's a big mental shift, so I'll sit on it for a bit.
+			- [[theme thoughts]]
+				- [[Alone, Together]]
+- ![[gossamer thoughts]]
+	- very capitalistic. this was written when i was on the real "get a job or i die" grind and also dealing with tough feelings of inadequacy sparked by my mother.
+- [[Tasks]]
+- ![[Friday, May 31st, 2024 - Logfile#^s9ganx]]
+	- this is a really good [[affirmation]]
+- :
+	- ![[Friday, May 31st, 2024 - Logfile#^evr254]]
+	- ![[Friday, May 31st, 2024 - Logfile#^fkomr1]]
+	- the juxtaposition of these two one after the other is really funny.
+		- i really want to live in a world where i am honest to goodness me and i am not ashamed of it and i am not unhappy with it. ^w9e6n6
+			- [[goals]]
+- ![[Friday, May 31st, 2024 - Logfile#^ypmpuf]]
+	- this and "one" as unified and alone makes me want to compile these into some sort of [[dialectics dictionary]] or something
+- ![[Saturday, June 1st, 2024 - Logfile#^x3jrtq]]
+	- so; is any specific vice the problem, or is it the general state of just wanting something on?
+		- looking at the evidence, whenever i remove youtube from my phone, i switch pretty quickly to using it on the ipad, and removing it from there means i watch on my laptop.
+	- what would i rather spend my time on?
+		- that depends.
+			- assuming it doesn't convert into more productivity time, i think that new experiences would be the way to go, or at least more intentional recreation.
+			- assuming it does convert into more productivity, then the sky's the limit, honestly.
+			- what if i could have the best of both worlds?
+				- by doling out low-energy productive tasks in between sessions of intentional recreation, i might just be able to be a really good version of myself.
+					- #review 
+	- this is theoretically supposed to be low-energy relaxation, but being a mindless video game, it is capable of taking up all the mental energy i give it.
+		- it is certainly addictive
+	- what do i think would happen if i deleted the game?
+		- i would probably spend a lot more time playing pokemon, and maybe some other roguelike.
+		- what would happen if i deleted _all_ of the games?
+			- i would probably play a lot of showdown.
+- ![[Saturday, June 1st, 2024 - Logfile#^j9htjg]]
+	- yup, still doing this. maybe i ought to leave it behind.
+		- there are complications with that, though, since the laptop doesn't have wifi at the moment.
+			- i can also imagine that i would start keeping a discord tab open at all times.
+				- i really don't like feeling alone.
+			- [x] [[Tasks]]
+		- it's not like i don't get distracted even without the phone; i'll start staring off into space and fidgeting quite often.
+			- the difference there, i suppose, is that those activities are constrained in their domain. the phone has the ability to suck you in for much longer than you meant to be there.
+				- i, however, have set up my device, intentionally or not, to be basically devoid of those types of vortices.
+					- perhaps, then, it isn't so bad that i have my phone on me.
+						- it occasionally interrupts me with a buzz, but honestly i appreciate the snap back to reality and the opportunity to reframe my thinking. let's me get a bit unwound.
+	- i think that for the sake of being human, i'll keep my environment as it is for now.
+- ![[Saturday, June 1st, 2024 - Logfile#^f5g2eq]]
+	- the issue with this is that the sitting position leads to the mattress being pushed away from the wall, forming the dreaded crack.
+		- maybe i could fasten the thing in place somehow.
+			- #review 
+- ![[Saturday, June 1st, 2024 - Logfile#^ebo93t]]
+	- crazy just how much i can disagree with the person who existed only 11 days ago.
+	- watching a video while eating is one of the great pleasures of being alive, honestly. i'm not gonna take that away from myself.
+- ![[Saturday, June 1st, 2024 - Logfile#^rsovkg]]
+	- i also disagree with this! i should have an eat spot, and im sort of making the second desk into that.
+- ![[Spaceship You#^qu484w]]
+	- i can simply _make this_ the case. rust-like.
+	- i wonder if an outline of my current routine would be helpful.
+		- ugh, time tracking is so fucking scary though...
+			- could i wait until i have the job?
+				- is that something that the you which you want to be would do?
+					- i mean... i dunno. it's kind of in line with my theme, but i don't want to distract from the time-sensitive directive of getting the job.
+						- alright, we will circle back to it then.
+							- #review 
+						- if that's the case, i think we ought to put off this review, too, no?
+							- ...maybe. haha
+- when i come back to this, the left tabs are [[Saturday, June 1st, 2024 - Logfile]] leading to [[Review of the first two Logfiles]] leading to [[Spaceship You]]
+	- [[Spaceship You]] will be a recurring and developing thing
+
+- ![[Review of the first two Logfiles#^i9zp7g]]
+	- i really think that this is important enough to be its own theme, or at least a [[theme thoughts|theme thought]]. every time i mentally touch on it, it feels so significant, but it never really has the staying power to generate the impact i know it can have.
+		- it can really be my framework for building my life, honestly.
+
+- ![[Review of the first two Logfiles#^7i1fek]]
+	- perhaps gathering these things can be some sort of menial task. i dont know how valuable it would actually be.
+		- [[Tasks|Tasks]]
+
+- ![[Wednesday, June 5th, 2024 - Logfile#^hlnqlu]]
+	- i wonder why i so often double back to this concept. it has real staying power with me.
+		- i suppose i can't discredit the fact that there is lots of truth to it.
+			- still, it feels _weird._ guess i've always been a weird person, though
+
+- ![[Friday, June 7th, 2024 - Logfile#^3qeemf]]
+	- hm! seems to be a high degree of correlation between these two events!
+		- what am i gonna do about it?
+			- go outside each morning, of course.
+
+- ![[Saturday, June 8th, 2024 - Logfile#^xr9m75]]
+	- it seems that sharp necessity breeds active improvement
+
+- surprised at how consistently ive been making daily notes. ive only missed like once so far.
+	- gods, time flies. non-linearity, am i right?
+
+- ![[Friday, June 14th, 2024 - Logfile#^1kqwrs]]
+	- k was short lived. they helped me take care of myself when i needed it.
+		- thank you, k.
+			- i hope to see you again someday. <3
+
+- ![[Saturday, June 15th, 2024 - Logfile#^1ot4wn]]
+	- not gonna say that was responsible for my splitting headache today, but after i came it went away, so... i won't be doing that again
+

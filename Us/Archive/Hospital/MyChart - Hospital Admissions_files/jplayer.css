@@ -1,0 +1,243 @@
+﻿/* Copyright 2018-2020 Epic Systems Corporation */
+.jplayer-inst.video {
+  height: 400px;
+}
+.jplayer-inst.audio {
+  height: 40px;
+}
+
+.jplayer-start-stop {
+  float: left;
+  margin-right: 5px;
+  width: auto;
+}
+
+.jplayer-controls {
+  float: right;
+  width: auto;
+}
+
+.jplayer-progress {
+  width: auto;
+  overflow: hidden;
+  height: 10px;
+}
+
+.jp-video {
+  padding-top: 5px;
+}
+
+.jp-audio {
+  width: 100%;
+}
+
+.jp-video-360p {
+  width: 640px;
+}
+
+.jp-video-full {
+  position: static;
+  clear: both;
+}
+.jp-video-full .jp-jplayer {
+  top: 0;
+  left: 0;
+  position: fixed;
+  overflow: hidden;
+  z-index: 4000;
+}
+.jp-video-full .jp-gui {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 4001;
+}
+.jp-video-full .jp-interface {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.jp-video-full .jplayer-controlbar {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.jplayer-controlbar {
+  position: relative;
+  height: 40px;
+}
+.jplayer-controlbar a {
+  float: left;
+  display: block;
+  text-indent: -9999px;
+}
+
+.jp-play,
+.jp-pause {
+  width: 40px;
+  height: 40px;
+}
+
+.jp-play {
+  background: url("../images/jplayer-controls.png") 0 0 no-repeat;
+}
+.jp-play:hover {
+  background: url("../images/jplayer-controls.png") -40px 0 no-repeat;
+}
+
+.jp-pause {
+  background: url("../images/jplayer-controls.png") 0 -40px no-repeat;
+}
+.jp-pause:hover {
+  background: url("../images/jplayer-controls.png") -40px -40px no-repeat;
+}
+
+.jp-current-time {
+  float: left;
+  width: auto;
+  font-size: 1.2em;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 8px;
+}
+
+.jplayer-progress-container {
+  overflow: hidden;
+  position: relative;
+  top: 10px;
+  height: 20px;
+  width: auto;
+}
+
+.jp-progress {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 10px;
+}
+
+.jp-seek-bar {
+  width: 0px;
+  height: 100%;
+  cursor: pointer;
+}
+
+.jp-seeking-bg {
+  background-image: url("../images/ajax-loader.gif");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.jp-play-bar {
+  width: 0px;
+  height: 100%;
+}
+
+.jp-mute,
+.jp-unmute {
+  width: 40px;
+  height: 40px;
+}
+
+.jp-mute {
+  background: url("../images/jplayer-controls.png") 0 -80px no-repeat;
+}
+.jp-mute:hover {
+  background: url("../images/jplayer-controls.png") -40px -80px no-repeat;
+}
+
+.jp-unmute {
+  background: url("../images/jplayer-controls.png") 0px -120px no-repeat;
+  display: none;
+}
+.jp-unmute:hover {
+  background: url("../images/jplayer-controls.png") -40px -120px no-repeat;
+}
+
+.jp-volume-bar {
+  overflow: hidden;
+  float: left;
+  width: 46px;
+  margin-top: 15px;
+  margin-right: 10px;
+  height: 10px;
+  cursor: pointer;
+}
+
+.jp-volume-bar-value {
+  width: 0px;
+  height: 10px;
+}
+
+.jp-video-play {
+  width: 100%;
+  overflow: hidden;
+  cursor: pointer;
+  background-color: transparent;
+}
+.jp-video-360p .jp-video-play {
+  margin-top: -360px;
+  height: 360px;
+}
+.jp-video-full .jp-video-play {
+  height: 100%;
+}
+
+.jp-video-play-icon {
+  position: relative;
+  display: block;
+  width: 112px;
+  height: 100px;
+  margin-left: -56px;
+  margin-top: -50px;
+  left: 50%;
+  top: 50%;
+  background: url("../images/jplayer-play.png") 0 0 no-repeat;
+  text-indent: -9999px;
+}
+.jp-video-play:hover .jp-video-play-icon {
+  background: url("../images/jplayer-play.png") 0 -100px no-repeat;
+}
+
+.jp-jplayer audio,
+.jp-jplayer {
+  width: 0px;
+  height: 0px;
+}
+
+.jp-full-screen,
+.jp-restore-screen {
+  width: 40px;
+  height: 40px;
+}
+
+.jp-full-screen {
+  background: url("../images/jplayer-controls.png") 0 -160px no-repeat;
+}
+.jp-full-screen:hover {
+  background: url("../images/jplayer-controls.png") -40px -160px no-repeat;
+}
+
+.jp-restore-screen {
+  background: url("../images/jplayer-controls.png") 0px -200px no-repeat;
+}
+.jp-restore-screen:hover {
+  background: url("../images/jplayer-controls.png") -40px -200px no-repeat;
+}
+
+.jp-no-solution {
+  padding: 5px;
+  font-size: 0.8em;
+  border-width: 2px;
+  border-style: solid;
+  display: none;
+}
+.jp-no-solution span {
+  font-size: 1em;
+  display: block;
+  text-align: center;
+  font-weight: bold;
+}

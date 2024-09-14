@@ -1,0 +1,8 @@
+- Get into ricing
+- Get into conlangs
+- Play Rainworld
+	- #review ; consider moving
+- make an Obsidian homepage
+- get the graph on the right sidebar in Obsidian
+- get a cool font
+- extract stuff from youtube

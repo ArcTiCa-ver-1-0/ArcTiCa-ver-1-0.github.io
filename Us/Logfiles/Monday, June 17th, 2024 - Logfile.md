@@ -1,0 +1,24 @@
+- wassup library
+- took the mensa test today. did not expect to get asked about famous people lmfao
+	- surprisingly already got the results back. they don't have the fucking scores which is the only goddamn part i care about.
+		- i went in expecting to get scammed and come out feeling somehow even more scammed
+- turning on gmail notifs so i dont compulsively check for the job offer.
+	- assuming i get it, of course. assuming assuming.
+		- its good to have hope, though.
+	- wonder if i should do the same for bumble.
+		- #review 
+- nothin' particularly on the mind this morning. i had an energy shot and then my vyvanse like an hour later and it feels pretty chill. felt some pressure in the head while i was taking the test but no pain or anything. honestly i feel really calm and collected. this might be the wave.
+	- unless the depression comes back, in which case it is less likely to be the wave.
+		- #review 
+		- not looking good for ya boi!
+	- ...and, you know, assuming it doesn't murder my heart.
+- gonna form and extract actionables from [[Some sort of review]] .>>
+	- honestly, only one:
+	- [ ] make some sort of escape hatch for youtube on the ipad
+	- .<<
+- [x] wanna do a touch of organization.
+	- i'm concerned about the spread of [[6over8|religion]] and [[theme thoughts]] and [[Tasks|Tasks]] and [[goals]]. theyre all very central.
+- nothing much else to do. time for [[Tasks]]
+___
+- difficult to work. maybe when i'm forced it will be easier. maybe not.
+	- looking at [[Task cards.canvas|Task cards]], there honestly isn't even that much I have.

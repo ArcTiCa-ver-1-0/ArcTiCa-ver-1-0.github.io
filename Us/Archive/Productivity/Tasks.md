@@ -1,0 +1,14 @@
+---
+tags: []
+---
+- Passback
+- [ ] Make the morning braindead easy
+	- Where's the friction currently?
+		- #review 
+- [ ] Let `ArcTiCa` be
+	- Scheduling time for her to exist seems appropriate. Could Saturdays work?
+	- Am I able to switch to her at will?
+		- With practice.
+	- [ ] Perform a pros-cons
+	- [[Scratchpad - `ArcTiCa`]]
+	- #review 

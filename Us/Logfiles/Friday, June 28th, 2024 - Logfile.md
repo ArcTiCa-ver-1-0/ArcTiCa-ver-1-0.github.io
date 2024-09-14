@@ -1,0 +1,84 @@
+- hey
+- out of the hospital
+	- technically
+		- the only practical difference is the way i'm wasting my time
+			- but i'm here now, in the library. that counts for something.
+- few things to do today.
+	- [ ] i wanna look into supplemental income
+		- after all, i'm not here by choice
+	- [ ] i have a psych appointment at 3
+		- the hospital scheduled it for me
+			- didn't ask them to. didn't really want them to, but it's probably for the best that they did.
+		- i'll ask about diagnoses and whatnot for the supplemental income, since i'll probably need that
+	- [ ] and i wanna apply for one job
+		- gonna start looking on linkedin, whereas i have been using indeed
+		- ideally i can get a remote position so that the issue of living space can be disjoint, but we will see what we can do.i'm 
+- i've been eating a fuckton.
+	- granted, i ate a fuckton less while i was in and during the leadup
+		- but it still just feels like i'm a fucking void.
+	- i wish i could disconnect this and just say "it's a problem for later" but [[Spaceship You]] tells us that physical health is very much intertwined with the mental.
+		- of course, having more money would let me cheat my way out, but there's no use thinking about that in the present.
+- i'm scared. but i'll be okay, i think. somehow.
+	- "somehow". the path is obvious. it's not even difficult. it's just scary.
+		- but therein lies the difficulty, no? [[mind over matter is a double-edged sword]].
+- there are a lot of things worth living for.
+	- it is difficult. but i'll be okay, taking things one step at a time.
+		- no matter what, i have safety nets, and i will not fall unless i stop moving.
+			- and so i will keep fighting.
+- i'm doing enough.
+	- i'm still alive, despite their best efforts to kill me.
+		- i'm still doing my best, despite constant setback and hopelessness.
+			- and that is enough for now. all anyone can ask is that i do my best.
+				- and my best i will do.
+					- for
+						- dawn
+						- ellie
+						- emily
+						- cameron
+						- yoko
+						- olive
+						- v
+						- clara
+						- taylor
+						- lily
+						- sylvia
+						- kacey
+						- luna
+						- tyfu
+						- hazel
+						- jess
+						- and my future self
+							- the girl who is happy
+								- not always
+								- but sometimes
+							- the girl who has meaning
+								- in the people around her
+								- and in the things she creates
+							- the girl who brings life
+								- to the world
+								- and those she loves
+___
+- i want to try to make my life easier without punishing myself
+	- instead of deleting youtube because i don't like how often i use it-
+- i felt stoned last night in my dream
+	- and in the small moments of waking in between
+		- i cried over my addiction to water
+			- and i don't know what that means
+- i still feel the infinite weight of significance in every natural thing
+	- it feels like a ton of dying
+		- and like everything is gonna be okay
+			- i don't know why i still feel this way.
+				- i feel lucky
+					- and scared
+					- and inadequate, maybe
+						- i don't know why i'm afraid to admit that
+- i am 21 years old
+	- even in the scale of 100, i have barely just begun. there is time aplenty for a beautiful story to be told.
+		- and remember all of the soft, tiny, precious moments we've had yet which we wouldn't trade for anything.
+- there is beauty in expansion and contraction
+	- creating more and appreciating that which already is
+		- deriving essence from meaning and meaning from essence and neither from itself
+			- and isn't that just special? what a wonderful world we have made and find ourselves in and experience and shape and everything
+- i feel bad that i have not created art
+	- but i am living
+		- and that is more than enough. <3

@@ -1,0 +1,1 @@
+~3.125/dollar @ 3.299 a gallon

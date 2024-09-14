@@ -1,0 +1,42 @@
+- good morning, outside!! <3
+- today i wanna finish up [[Some sort of review]] and make an effort to progress [[Spaceship You]]. let's get to it!
+	- [x] [[Some sort of review]]
+	- [ ] [[Spaceship You]] ^bvzo7r
+		- Measure twice, cut once. I'm not at home, but I can plan my future actions from anywhere. Let's get to it. --
+		- How can I design my ~~physical space~~ systems to facilitate the morning exercise?
+			- Beginning with an alarm will do.
+				- [ ] Set an alarm for 7:15a reminding me to take a walk.
+				- An aside, but the effectiveness of alarms decreases with their count.
+					- The same goes for reminders, with the added detriment that daily recurring tasks are practically useless and having multiple reminders scheduled at once makes me ignore all of them.
+						- [ ] Re-evaluate existing reminders
+		- How can I design my sleep station to make keeping it hygienic easier?
+			- I refute the implication; the key lies in designing the other stations which pollute it.
+				- In that case, which stations bleed into sleep?
+				- Recreation
+				- Creation on very rare occasions
+				- ...How can I design those stations in order to keep them contained?
+					- I refute the implication; the sleep station contains recreation activity when the recreation station is in unworkable disarray.
+						- [ ] Clean q4
+						- [ ] Clean the recreation station
+		- How can I design my recreation station to facilitate meaningful and intentional experiences?
+			- In general, add friction to the activities which sponge up time
+				- [ ] Delete Spelunky
+				- [ ] Delete YouTube
+				- In general, enforce their re-removal after use until problem is satisfactorily solved.
+			- Remove distractions; we want a singular experience
+				- [ ] Mount the iPad elsewhere
+				- [ ] Set up the Steam Deck in its docked mode
+			- For social stuff, could we experiment with using the second laptop?
+		- How can I design my creation station to facilitate clean and productive sessions?
+			- More explicit segmentation and separation
+				- [ ] Desks Reconfigured:
+					- [ ] [plan]
+					- [ ] [execute]
+			- Removal of unintentional escape hatches
+				- [ ] Block Discord on the laptop
+- tamed a puppy today. took probably less than an hour, definitely less than two. if you wanna count the days before, i've spent probably another two passively texting not much of anything.
+	- emotional intelligence, i guess. or perhaps just being kind. but most likely both.
+	- you know, i do this a lot. and the leaving is always painful. maybe i ought to develop some sort of lead-out program for my "patients".
+		- could be difficult, considering i would have to basically get the person to develop a support network. and at that point, it's a large enough task that it isn't worth systematizing.
+- it was Us last night, for a little bit :)
+- alright, this has been good. gonna head home to get out of the heat and grab some water, then execute [[Sunday, June 16th, 2024 - Logfile#^bvzo7r]] .>>

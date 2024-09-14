@@ -1,0 +1,4 @@
+\```dataview
+task
+where !completed
+```

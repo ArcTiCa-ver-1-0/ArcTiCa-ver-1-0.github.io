@@ -1,0 +1,3 @@
+- the fuck are these keybinds?
+	- i need to be able to tile to corners yesterday
+		- okay so that's just not an option. lovely. i will learn to do without, i reckon.

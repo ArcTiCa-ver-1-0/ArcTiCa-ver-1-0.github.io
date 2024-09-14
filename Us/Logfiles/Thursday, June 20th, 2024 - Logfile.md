@@ -1,0 +1,22 @@
+- it is 12:42 am. i woke up but a few hours ago. life is fucked rn. but we are living.
+- had a date with willow. we met at the arboretum and sat in the grass and talked and listened to music before going back to their place. i made them cum and then got kicked out.
+- i have animal well on. wanna play it at some point.
+- feel this itch to do anything but be here. i guess i just like the movement.
+- eLink still has not replied. scared.
+	- i think it's been a reasonable enough amount of time to follow up with them.
+		- sent an email. here's hoping.
+	- i know it'll still be hard, but i feel like things will stabilize once i'm saving up money.
+		- it's not like i'm not making a sort of progress now by waiting since that is all there is to do, but i hate not knowing where the finish line is. having a number is good, too.
+- sitting here, trying to think of the perfect thing to do instead of just doing something, _anything._
+	- i can't help it. but i can try.
+- dawn is online.
+	- [[goals]]
+- about time to take my second meds, i suppose. .>>
+	- [[mood tracking]] .<<
+- let's decide to do something.
+	- put up the laundry
+- ...why am i just sitting here? why can't i control my body?
+	- men tal eel niss, innit
+- I WANNA PLAY NEON WHITE
+___
+- burn it all down. burn it all down.

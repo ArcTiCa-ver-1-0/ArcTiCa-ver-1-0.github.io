@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "f45d791d7b4244b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7ac3e3fa728db12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b740d74c70f1ca7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logfiles/Saturday, September 14th, 2024 - Logfile.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d6c4a671e67cbdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c993a85decbefc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f38e74a9a4d40311",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "00dd5bdb43a90616",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "mind",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d1390c410fb0eea6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fdf660cc650a0e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b24b25fd71c21d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Logfiles/Saturday, September 14th, 2024 - Logfile.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47d537c7582cc668",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Coding Test Hub.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0f6174a84079826",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7f4ce925ad43226c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "f38e74a9a4d40311",
+  "lastOpenFiles": [
+    "Archive/6over8.md",
+    "Logfiles/Saturday, September 14th, 2024 - Logfile.md",
+    "Resume - Michler's.md",
+    "Cover Letter - Michler's.md",
+    "Logfiles/Wednesday, July 3rd, 2024 - Logfile.md",
+    "Logfiles/Friday, September 13th, 2024 - Logfile.md",
+    "Archive/Lying, transcript, post-mortem.md",
+    "Logfiles/Thursday, September 12th, 2024 - Logfile.md",
+    "Logfiles/Thursday, August 8th, 2024 - Logfile.md",
+    "Logfiles/Friday, May 31st, 2024 - Logfile.md",
+    "Archive/Productivity/goals.md",
+    "Logfiles/Thursday, May 30th, 2024 - Logfile.md",
+    "Attachments/IMG_0945.png",
+    "Attachments/IMG_0939.png",
+    "Attachments/IMG_0938.png",
+    "Attachments/IMG_0937.png",
+    "Attachments/IMG_0931.png",
+    "Attachments/IMG_0930.png",
+    "Attachments/IMG_0928.png",
+    "Attachments/IMG_0927.png",
+    "Attachments/IMG_0926.png",
+    "Attachments/IMG_0925.png",
+    "clothes.md",
+    "Logfiles/Wednesday, September 11th, 2024 - Logfile.md",
+    "Archive/hdg.md",
+    "project ideas.md",
+    "Archive/Learning/learn nixos.md",
+    "Archive/Things to learn.md",
+    "Archive/Text expander.md",
+    "Archive/Done/bridge.md",
+    "Creation/game dev.md",
+    "Archive/Done/gossamer thoughts.md",
+    "Archive/Done/my goddess.md",
+    "Archive/Done/i swear she turned the moon red that night.md",
+    "Archive/Productivity/Spaceship You.md",
+    "Archive/Productivity/Inactive projects.md",
+    "Archive/Productivity/Task cards.canvas",
+    "Archive/Work/Applying/Old resumes/Resume 5_24_24.pdf",
+    "Archive/Work/Applying/Old resumes/Resume 2.pdf",
+    "Archive/Work/Applying/Old resumes/Resume 1.pdf",
+    "Hospital/MyChart - Hospital Admissions_files/mnemonics",
+    "Hospital/MyChart - Hospital Admissions_files",
+    "Hospital",
+    "Archive/Learning",
+    "Archive/Done",
+    "Archive/Productivity/Review",
+    "Archive/Productivity"
+  ]
+}

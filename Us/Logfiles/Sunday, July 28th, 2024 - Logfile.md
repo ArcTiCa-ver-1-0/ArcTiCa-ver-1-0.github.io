@@ -1,0 +1,1 @@
+"suddenly, when one thing was going wrong, i had other things going on in my life" and so i was okay

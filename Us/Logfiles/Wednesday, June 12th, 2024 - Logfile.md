@@ -1,0 +1,67 @@
+---
+previous: "[[Tuesday, June 11th, 2024 - Logfile]]"
+next: "[[Thursday, June 13th, 2024 - Logfile]]"
+---
+- good afternoon, library. i find myself plagued by dreams yet again.
+- i dont feel like what dawn taught me is still my core belief.
+	- i dont want that to be the case. there is value to both.
+		- [[6over8]]
+			- [[bridge]]
+			- [[thoughts on archives]]
+- _'luv u like a--'_
+	- _'treachu like a--'_
+- where do i wanna be on the scale of 0 to 1?
+	- want is probably wrong. wherever i am is valuable, i think.
+	- maybe its more like a scale of 1 to i, actually.
+- i want to be a sweet person
+	- [[theme thoughts]]
+- maybe i should do some review
+- i want a duck
+- [[goals]]
+- ![[Friday, May 31st, 2024 - Logfile#^xslzub]]
+	- i really relish the thought of comparing the being that i am ten years from now to that which i am now. the only way to do so, really, is to maintain these logfiles. perhaps these should be central, then.
+		- #review 
+- [[project ideas]]
+- wanna expand my thoughts on music and media/art consumption in general
+- [x] 'k, i've been here a hot sec. i ought to work on the coding test for a Unit. .>>
+	- [[Coding Test Hub]] .<<
+	- Seems like this won't be too complicated to implement once I get an understanding of the underlying infrastructure. Of course, that is the hard part, as the challenge description implies, but I learn quick, so I believe I can do very well on this.
+	- My next step will be to get the page loaded up just to get an overview and to have something to use the Chrome dev tools on.
+- self-improvement is a [[theme thoughts|theme thought]]
+- what do i wanna do with [[Spaceship You]]?
+	- dunno, but i'm really liking the "get up, get ready, and go to the library" routine.
+		- i can feel my attention slipping. time for a break .>>
+			- feeling refreshed :) .<<
+- what's on the mind?
+	- family
+		- i hate that they hurt me and i hate that i hurt them
+		- i'm not ready to go back to them yet
+	- the hab is depressingly dark
+		- when we get the lease renewed, we will put in a maintenance request to get the overhead light fixed.
+		- [ ] in the meantime, we can let the blinds open more frequently and use the sun lamp.
+	- i'm worried about getting the coding project done in time, but i also don't wanna go home, but i need to go home for wifi.
+		- maybe a walk in the park would help me feel a bit better.
+			- yeah, that sounds good! let's go to the arboretum! ^~^ .>>
+				- chilling at home for a bit while my phone charges :3
+				- it's much different this time. there are so many people here even though it's almost 10 pm...
+- y'know? i kinda don't wanna work on the coding challenge anymore today.
+	- [x] instead, my work for the rest of the day will be setting myself up to do great on it tomorrow!
+		- [x] Get Python set up
+			- Might as well start with a simple install. I can always remove it and start fresh if needed .>>
+				- Added `python3` and its `dbus` to `configuration.nix`! Hopefully that works well enough to get the WiFi up and running, but I'll have my phone with me if I need .<<
+		- [x] Familiarize yourself with an outline of the process
+			- I'll start with the one from ChatGPT .>>
+				- Ah! It gave me a tip to get the homepage to load. That's great! .<<
+		- [x] If you can, get the homepage to load
+			- Let's give it a try! .>>
+				- I DID IT!!!! :D .<<
+- i wanna make some eggs 'n' rice! :3
+	- let's do it then! .>>
+		- rice is cookin' :3
+			- it was yummy ^~^ .<<
+- oops! reconnected to the sync and definitely duped a ton of files. that's for future clara to fix though haha[x] actually let's do that now
+- i did good work today.
+	- i've two days left on the project.
+		- one day for debugging and another for coding. doable!
+			- i might have to buy chatgpt for help, but that's just an investment in my career. lol
+- luna and i are talking again :)

@@ -1,0 +1,3 @@
+- [x] `git config user.[name, email] []`
+- spend more time trying to figure out how to get a fucking access token than learning git itself
+- 
